@@ -26,6 +26,5 @@ A Python-based automation tool that generates customized reports from structured
 ## 📁 Folder Structure
 
 Step 2: Run the App
-bash
-Copy code
+
 python main.py
